@@ -17,6 +17,7 @@ val_datasets_path       = "coco_dataset/val2017"
 train_annotation_path   = "coco_dataset/annotations/instances_train2017.json"
 val_annotation_path     = "coco_dataset/annotations/instances_val2017.json"
 
+
 #-------------------------------------------------------#
 #   生成的txt文件路径
 #-------------------------------------------------------#

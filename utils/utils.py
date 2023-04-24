@@ -39,6 +39,7 @@ def get_classes(classes_path):
     class_names = [c.strip() for c in class_names]
     return class_names, len(class_names)
 
+
 #---------------------------------------------------#
 #   获得先验框
 #---------------------------------------------------#

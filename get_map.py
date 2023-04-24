@@ -8,6 +8,7 @@ from utils.utils import get_classes
 from utils.utils_map import get_coco_map, get_map
 from yolo import YOLO
 
+
 if __name__ == "__main__":
     '''
     Recall和Precision不像AP是一个面积的概念，因此在门限值（Confidence）不同时，网络的Recall和Precision值是不同的。

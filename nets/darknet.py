@@ -97,3 +97,5 @@ class DarkNet(nn.Module):
 def darknet53():
     model = DarkNet([1, 2, 8, 8, 4])
     return model
+
+

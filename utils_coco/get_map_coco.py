@@ -11,6 +11,7 @@ from tqdm import tqdm
 from utils.utils import cvtColor, preprocess_input, resize_image
 from yolo import YOLO
 
+
 #---------------------------------------------------------------------------#
 #   map_mode用于指定该文件运行时计算的内容
 #   map_mode为0代表整个map计算流程，包括获得预测结果、计算map。

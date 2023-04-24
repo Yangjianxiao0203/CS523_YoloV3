@@ -499,6 +499,7 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
                     if ovmax > 0:
                         status = "INSUFFICIENT OVERLAP"
 
+
                 """
                 Draw image to show animation
                 """
